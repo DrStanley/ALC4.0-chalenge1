@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Nave">
+        <item name="android:textColor">#ffff</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:color">#ffff</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColorSecondary">#ffff</item>
+        <item name="android:titleTextColor">#ffff</item>
+    </style>
+</resources>
